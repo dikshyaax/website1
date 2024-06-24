@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dikshya Poudyal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        main {
+            padding: 2em;
+            text-align: center;
+        }
+
+        .welcome-section {
+            background-color: white;
+            padding: 2em;
+            margin: 2em auto;
+            border-radius: 10px;
+            max-width: 600px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .welcome-section h2 {
+            margin-top: 0;
+            color: #4CAF50;
+        }
+
+        .welcome-section p {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dikshya Poudyal</h1>
+    </header>
+    <main>
+        <section class="welcome-section">
+            <h2>Welcome to my Website</h2>
+            <p>Hello! My name is Dikshya Poudyal, and this is my personal website.</p>
+        </section>
+    </main>
+</body>
+</html>
